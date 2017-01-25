@@ -87,6 +87,6 @@
   <project path="system/vold" name="platform/system/vold" />
 
   <!-- Galaxy S2 things -->
-  <project path="android_device_arubaslim-uncommon" name="arubaslim" remote="b2g" revision="master" />
+  <project path="device/samsung/arubaslim" name="arubaslim" remote="b2g" revision="master" />
 
 </manifest>
